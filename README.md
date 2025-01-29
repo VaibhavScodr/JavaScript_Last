@@ -13,6 +13,6 @@ it keeps trackes to your work or footprint over the process of making project an
   <li>staged</li>
   <li>commited</li>
 </ol>
-A. git local
+A. git local  <br>
 1. check installetion -> open terminal -> git --version  <br> 
 2. configure it with github ->go to github -> and in terminal config <br>
