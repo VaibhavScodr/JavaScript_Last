@@ -6,3 +6,10 @@ it keeps trackes to your work or footprint over the process of making project an
 (to manage the version of the software)
 
 #version control is always distributed becaus the changes are always being happend
+
+2. stages of files or status? <br>
+<ol>
+  <li>modified</li>
+  <li>staged</li>
+  <li>commited</li>
+</ol>
