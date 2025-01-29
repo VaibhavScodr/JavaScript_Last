@@ -14,5 +14,5 @@ it keeps trackes to your work or footprint over the process of making project an
   <li>commited</li>
 </ol>
 A. git local
-1. check installetion -> open terminal -> git --version
+1. check installetion -> open terminal -> git --version  <br> 
 2. configure it with github ->go to github -> and in terminal config <br>
