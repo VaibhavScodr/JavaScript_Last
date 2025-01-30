@@ -49,4 +49,11 @@ there are three stages <pre>
                                      |
                                      ^
                                   (commit)--->(commit)               
-</pre>  it means the braches are the pointers which pointes to the commites andmain branch pointes to the latest commit by default and you start branches whereever commit you need to modified it.
+</pre>  it means the braches are the pointers which pointes to the commites andmain branch pointes to the latest commit by default and you start branches whereever commit you need to modified it.  <br>
+15. For the list of the branches run command <h3>git branch</h3>   <br>
+16. For the new branch run command <h3>git branch new_branch</h3>    <br>
+17. For jumping on the new branch you made just nade <h3>git checkout branch_name</h3> <br>
+18. other way by which we crete branch and automatically jump on it is <h3>git checkout -b new_b</h3> <br>
+19. For delete the branch we use command <h3>git branch -d branch_name</h3>   <br>
+20. For renaming the branch we use command <h3>git branch -m new_name</h3> <br>
+21. Another concept is <h3>git stash </h3> by using this we can take the changes in modified file locally saved for use and when it is needed apply these to real changes <h3>git stash apply</h3>
