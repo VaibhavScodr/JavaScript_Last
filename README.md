@@ -21,3 +21,6 @@ A. git local  <br>
 (2) second you can do what that make your own diretory over the VS code and run and write everything on it than make it take it in the github by using <h3>git init</h3> 
 also you can check it by using ls -a. <br>
 5. Now becaus you have connected to the github and have proper connection so just make some handy command which are (a)git status--> git add .--> git commit -m "some msg"--> git push origin main.. <br>
+6. <h3>Day2</h3> <br>
+7. now for the back information of the git hub history or to see which are the new commits us command as <h3>git log</h3> <br>
+the latest snapshot will be at head <h4>Head-main</h4> 
