@@ -37,3 +37,16 @@ there are three stages <pre>
 11. Now at the level of commited you have to run command <h3>git reset --soft HEAD~1</h3> it takes you level to the added stage <br> also there are two types of git reset at the level of commit <br> 1. is <h4>git reset --soft HEAD~1</H4> <br>
 2. is <h4>git reset --hard HEAD~2</h4> <br>
 12. <h1>Branches</h1> it comes to branches <br>
+13. brach is the pointer pointes to the latest commmit where my HEAD is. and the other branches are the part of the main branch which pointes to the diffrent diffrent snapshot's
+14.  <pre> 
+                                             (commit)--->(commit)---(commit)
+                                                ^
+                                                |
+                                                |                          HEAD-->main
+                                                |                              |
+     (commit)--->(commit)--->(commit)--->(commit)--->(commit)--->(commit)--(commit)
+                                     |
+                                     |
+                                     ^
+                                  (commit)--->(commit)               
+</pre>  it means the braches are the pointers which pointes to the commites andmain branch pointes to the latest commit by default and you start branches whereever commit you need to modified it.
