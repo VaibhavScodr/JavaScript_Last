@@ -34,3 +34,5 @@ there are three stages <pre>
 </pre>  <br>
 9. Now at the level of modified use command <h3>git restore file.ext</h3> by this all modification will be reverted <br>
 10. Not at the level of added you have to run command <h3>git restore --staged file.ext</h3> becaus it is staged or added it now go to the -->modified level then --> no changes <h3>git restore file.ext</h3> <br> 
+11. Now at the level of commited you have to run command <h3>git reset --soft HEAD~1</h3> it takes you level to the added stage <br> also there are two types of git reset at the level of commit <br> 1. is <h4>git reset --soft HEAD~1</H4> <br>
+2. is <h4>git reset --hard HEAD~2</h4> <br>
