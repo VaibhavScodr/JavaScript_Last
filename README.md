@@ -32,3 +32,5 @@ there are three stages <pre>
                   |
                 commited
 </pre>  <br>
+9. Now at the level of modified use command <h3>git restore file.ext</h3> by this all modification will be reverted <br>
+10. Not at the level of added you have to run command <h3>git restore --staged file.ext</h3> becaus it is staged or added it now go to the -->modified level then --> no changes <h3>git restore file.ext</h3> <br> 
