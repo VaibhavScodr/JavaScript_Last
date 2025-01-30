@@ -1,5 +1,5 @@
 # JavaScript_Last
-29/01/2025
+<h3>Day1</h3>29/01/2025
 i am starting javascript again for lastly
 1. what is version control? <br>
 it keeps trackes to your work or footprint over the process of making project and product
@@ -23,4 +23,4 @@ also you can check it by using ls -a. <br>
 5. Now becaus you have connected to the github and have proper connection so just make some handy command which are (a)git status--> git add .--> git commit -m "some msg"--> git push origin main.. <br>
 6. <h3>Day2</h3> <br>
 7. now for the back information of the git hub history or to see which are the new commits us command as <h3>git log</h3> <br>
-the latest snapshot will be at head <h4>Head-main</h4> 
+the latest snapshot will be at head <h4>Head->main</h4> 
