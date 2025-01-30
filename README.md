@@ -56,4 +56,5 @@ there are three stages <pre>
 18. other way by which we crete branch and automatically jump on it is <h3>git checkout -b new_b</h3> <br>
 19. For delete the branch we use command <h3>git branch -d branch_name</h3>   <br>
 20. For renaming the branch we use command <h3>git branch -m new_name</h3> <br>
-21. Another concept is <h3>git stash </h3> by using this we can take the changes in modified file locally saved for use and when it is needed apply these to real changes <h3>git stash apply</h3>
+21. Another concept is <h3>git stash </h3> by using this we can take the changes in modified file locally saved for use and when it is needed apply these to real changes <h3>git stash apply</h3>  <br>
+22. <h4>Merge Branchs</h4>  i want to integrete tha work of all branch for production is known as merge <br>
