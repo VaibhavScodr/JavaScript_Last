@@ -59,3 +59,4 @@ there are three stages <pre>
 21. Another concept is <h3>git stash </h3> by using this we can take the changes in modified file locally saved for use and when it is needed apply these to real changes <h3>git stash apply</h3>  <br>
 22. <h4>Merge Branchs</h4>  i want to integrete tha work of all branch for production is known as merge <br>
 23. Use command <h3>git checkout -b newb --> touch new.php --> git checkout main --> git merge newb --> git push origin main</h3>  <br>
+24. Merge conflicts 
